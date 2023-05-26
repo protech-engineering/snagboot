@@ -1,0 +1,8 @@
+recovery:
+  soc: imx6ull
+  firmware:
+    SPL:
+      path: SPL-mfgtool
+    u-boot:
+      path: u-boot.imx
+
